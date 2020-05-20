@@ -1,0 +1,175 @@
+[
+  {
+    "id": 7,
+    "name": "fuchsia",
+    "code": "00FF00FF"
+  },
+  {
+    "id": 25,
+    "name": "Very light blue",
+    "code": "009999FF",
+    "rgb": "153, 153, 255"
+  },
+  {
+    "id": 26,
+    "name": "Very pale yellow",
+    "code": "00FFFFCC",
+    "rgb": "255, 255, 204"
+  },
+  {
+    "id": 27,
+    "name": "Very pale cyan",
+    "code": "00CCFFFF",
+    "rgb": "204, 255, 255"
+  },
+  {
+    "id": 28,
+    "name": "Very dark magenta",
+    "code": "00660066",
+    "rgb": "102, 0, 102"
+  },
+  {
+    "id": 29,
+    "name": "very light red",
+    "code": "00FF8080",
+    "rgb": "255, 128, 128"
+  },
+  {
+    "id": 30,
+    "name": "Strong blue",
+    "code": "000066CC",
+    "rgb": "0, 102, 204"
+  },
+  {
+    "id": 31,
+    "name": "Very pale blue",
+    "code": "00CCCCFF",
+    "rgb": "204, 204, 255"
+  },
+  {
+    "id": 33,
+    "code": "00FF00FF",
+    "name": "Pure (or mostly pure) magenta"
+  },
+  {
+    "id": 35,
+    "name": "Dark magenta",
+    "code": "00800080",
+    "rgb": "(128,0,128)"
+  },
+  {
+    "id": 36,
+    "name": "Dark red",
+    "code": "00800000",
+    "rgb": "(0,255,255)"
+  },
+  {
+    "id": 37,
+    "name": "Dark cyan",
+    "code": "00008080",
+    "rgb": "(0,128,128)"
+  },
+  {
+    "id": 38,
+    "name": "Blue",
+    "code": "000000FF "
+  },
+  {
+    "id": 39,
+    "name": "Pure (or mostly pure) cyan",
+    "code": "0000CCFF",
+    "rgb": "(0,204,255)"
+  },
+  {
+    "id": 47,
+    "name": "Vivid blue",
+    "code": "003366FF",
+    "rgb": "(51,102,255)"
+  },
+  {
+    "id": 48,
+    "name": "Strong cyan",
+    "code": "0033CCCC",
+    "rgb": "(51,204,204)"
+  },
+  {
+    "id": 49,
+    "name": "Strong green",
+    "code": "0099CC00",
+    "rgb": "(153,204,0)"
+  },
+  {
+    "id": 51,
+    "name": "orange peel",
+    "code": "00FF9900",
+    "rgb": "(255,153,0)"
+  },
+  {
+    "id": 52,
+    "name": "safety orange",
+    "code": "00FF6600",
+    "rgb": "(255,102,0)"
+  },
+  {
+    "id": 53,
+    "name": "Mostly desaturated dark blue",
+    "code": "00666699",
+    "rgb": "(102,102,153)"
+  },
+  {
+    "id": 55,
+    "name": "Dark moderate cyan - lime green",
+    "code": "00339966",
+    "rgb": "(51,153,102)"
+  },
+  {
+    "id": 56,
+    "name": "Very dark lime green",
+    "code": "00003300",
+    "rgb": "(0,51,0)"
+  },
+  {
+    "id": 57,
+    "name": "Very dark yellow [Olive tone]",
+    "code": "00333300",
+    "rgb": "(51,51,0)"
+  },
+  {
+    "id": 58,
+    "name": "Dark orange [Brown tone]",
+    "code": "00993300",
+    "rgb": "(153,51,0)"
+  },
+  {
+    "id": 59,
+    "name": "Dark moderate pink",
+    "code": "00883366",
+    "rgb": "(153,51,102)"
+  },
+  {
+    "id": 60,
+    "name": "Dark moderate blue",
+    "code": "00333399",
+    "rgb": "(51,51,153)"
+  },
+  {
+    "id": 62,
+    "name": "light green",
+    "code": "FF92D050"
+  },
+  {
+    "id": 63,
+    "name": "dark green",
+    "code": "FF00B050"
+  },
+  {
+    "id": 64,
+    "name": "blue",
+    "code": "FF00B0F0"
+  },
+  {
+    "id": 65,
+    "name": "dark blue",
+    "code": "FF0070C0"
+  }
+]
